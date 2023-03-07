@@ -4,4 +4,4 @@ This is a very simple basic C++ program that detects the Roblox client's process
 
 Compile with Visual Studio.
 
-If you would like to use a alternative way to terminate the Roblox process you could also use "game:Shutdown()" in Lua.
+If you would like to use a alternative way to terminate the Roblox process you could also use "game:Shutdown()" in Lua. Obvious put it in Synapse X, and etc.
